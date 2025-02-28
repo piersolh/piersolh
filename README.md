@@ -7,4 +7,4 @@ My name is Hannah, I am student currently pursuing a BS in Computer Science and 
 - 😄 Pronouns: she/her
 
 ⭐  Check out the project I worked on with Code4Community last semester: ⭐ 
-Link: https://www.c4cneu.com
+- Link: https://www.c4cneu.com
