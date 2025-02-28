@@ -1,7 +1,7 @@
 
 ### About Me 🚀
 
-Hello! My name is Hannah. I am a Northeastern student currently pursuing a BS in Computer Science with an AI concentration and a minor in Linguistics. I am a software developer at Code4Community, where I work with a team of other developers to create software solutions for Boston nonprofits.
+Hello! My name is Hannah. I am a Northeastern student currently pursuing a B.S. in Computer Science with a concentration in Artificial Intelligence and a minor in Linguistics. I am a software developer at Code4Community, where I work with a team of developers to create software solutions for Boston nonprofits.
 
 Last semester, I worked with a team of developers to revamp the organization's website to enhance user experience and boost engagement.<br/>
 
@@ -9,7 +9,7 @@ Last semester, I worked with a team of developers to revamp the organization's w
 ⭐  Check out the project I worked on last semester: ⭐ 
 - 🔗 Link: https://www.c4cneu.com
 
-I’m currently working with Code4Community to modernize NEFAC's (New England First Amendment Coalition) website using modern front-end technologies (React, JavaScript, TypeScript, HTML, Tailwind CSS). Additionally, we're implementing a chatbot powered by RAG (Retrieval-Augmented Generation) technology to help users easily access information about the organization and its activities. <br>
+I’m currently working with Code4Community to modernize NEFAC's (New England First Amendment Coalition) website using modern front-end technologies (React, JavaScript, TypeScript, HTML, Tailwind CSS). Additionally, we're implementing a chatbot powered by Retrieval-Augmented Generation (RAG) to help users easily access information about the organization and its activities. <br>
 
 I am interested in fullstack, frontend, or backend web development roles.
 
