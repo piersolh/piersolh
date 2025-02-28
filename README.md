@@ -6,5 +6,5 @@ My name is Hannah, I am student currently pursuing a BS in Computer Science and 
 - 💬 Ask me about how humans and machines acquire language! 
 - 😄 Pronouns: she/her
 
-⭐ Check out the project I worked on with Code4Community last semester:⭐ 
+⭐  Check out the project I worked on with Code4Community last semester: ⭐ 
 Link: https://www.c4cneu.com
