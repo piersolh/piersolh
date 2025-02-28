@@ -5,4 +5,6 @@ My name is Hannah, I am student currently pursuing a BS in Computer Science and 
 - 🌱 I’m currently taking courses SQL Database Design and Data Mining and Machine Learning in Python!
 - 💬 Ask me about how humans and machines acquire language! 
 - 😄 Pronouns: she/her
-- 🍭 Fun fact: Twice is my favorite artist!
+
+⭐ Check out the project I worked on with Code4Community last semester:⭐ 
+Link: https://www.c4cneu.com
