@@ -6,8 +6,9 @@ Hello! My name is Hannah. I am a Northeastern student currently pursuing a B.S. 
 Last semester, I worked with a team of developers to revamp the organization's website to enhance user experience and boost engagement.<br/>
 
 
-⭐  Check out the project I worked on last semester: ⭐ 
+⭐  Check out my past projects: ⭐ 
 - 🔗 Link: https://www.c4cneu.com
+- 🔗 Link: https://www.c4cneu.com](https://github.com/piersolh/MIT-BTT-AI-Final-Project
 
 I’m currently working with Code4Community to modernize NEFAC's (New England First Amendment Coalition) website using modern front-end technologies (React, JavaScript, TypeScript, HTML, Tailwind CSS). Additionally, we're implementing a chatbot powered by Retrieval-Augmented Generation (RAG) to help users easily access information about the organization and its activities. <br>
 
