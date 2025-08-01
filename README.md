@@ -8,7 +8,7 @@ Last semester, I worked with a team of developers to revamp the organization's w
 
 ⭐  Check out my past projects: ⭐ 
 - 🔗 Link: https://www.c4cneu.com
-- 🔗 Link: https://www.c4cneu.com](https://github.com/piersolh/MIT-BTT-AI-Final-Project
+- 🔗 Link: https://github.com/piersolh/MIT-BTT-AI-Final-Project
 
 I’m currently working with Code4Community to modernize NEFAC's (New England First Amendment Coalition) website using modern front-end technologies (React, JavaScript, TypeScript, HTML, Tailwind CSS). Additionally, we're implementing a chatbot powered by Retrieval-Augmented Generation (RAG) to help users easily access information about the organization and its activities. <br>
 
